@@ -28,6 +28,7 @@ const portfolioData = [
     title: "KosKu",
     subtitle: "Commercial Website",
     dots: 5,
+    link: "https://kosku.monyenyo.com/",
     activeDot: 2,
   },
     {
