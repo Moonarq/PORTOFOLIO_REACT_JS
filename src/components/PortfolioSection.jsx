@@ -30,6 +30,7 @@ const portfolioData = [
     dots: 5,
     link: "https://kosku.monyenyo.com/",
     activeDot: 2,
+    external: true,
   },
     {
     image: undefined,
