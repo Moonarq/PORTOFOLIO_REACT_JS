@@ -101,7 +101,7 @@ const AboutV2Section = () => {
                 </div>
               {/* Tombol Download Resume */}
                 <a
-                href="/assets/Curriculum Vitae - Kelvianov.pdf"
+                href="/assets/Curriculum%20Vitae%20-%20Kelvianov.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="aboutv2-download-btn"
